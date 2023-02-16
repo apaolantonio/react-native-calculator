@@ -7,3 +7,7 @@
 - useRef
 - Custom Hook
 - View, SafeAreaView, Text, Stylesheets
+
+### Comando para ejecutar localmente
+
+- npx react-native run-ios
